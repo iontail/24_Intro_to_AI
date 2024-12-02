@@ -1,5 +1,5 @@
 # 2024-2 SKKU Introduction to A.I
-성균관대학교 인공지능개론 5팀의 코드서버입니다
+성균관대학교 인공지능개론 5팀의 코드서버
 
 
 ### 온라인 도박 중독 재발 방지를 위한 디지털 치료제 연구
@@ -14,3 +14,6 @@
 
 
 ## 데이터셋
++ 키워드 기반 데이터셋 (등장 횟수 기준 상위 키워드)
++ KAIST사이버보안연구센터 데이터 제공
++ Son, J. et al. "Ensuring Reliability of BERT-Based Harmful Website Classification Model using XAI". 2024 한국컴퓨터종합학술대회 논문집.
