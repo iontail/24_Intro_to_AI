@@ -1,6 +1,10 @@
 # 2024-2 SKKU Introduction to A.I
-성균관대학교 인공지능개론 5팀 코드서버
+> 성균관대학교 인공지능개론 5팀 코드서버
 
+### 김민석 · 김승겸 · 이찬희 · 정상헌 · 한서연
+#### Minseok Kim · Seunggeom Kim ·  Chanhee Lee ·  Sanghun Jung ·  Seoyeon Han
+
+-----
 
 
 
